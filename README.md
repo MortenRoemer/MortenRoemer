@@ -1,6 +1,6 @@
 👋 Hi, I’m @MortenRoemer
 
-Software Engineer @ LichtBlick SE
+Team Lead Software Engineering @ LichtBlick SE
 
 <!---
 MortenRoemer/MortenRoemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
